@@ -1,7 +1,7 @@
 {
   "name": "dreamsrent",
   "version": "0.1.0",
-  "homepage": "/react",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@fullcalendar/core": "^6.1.14",
